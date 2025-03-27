@@ -1,4 +1,4 @@
-## Hi, I'm [Your Name] ✨  
+## Hi ✨  
 
 💡 AI student exploring the world of programming<br/>
 📌 Still learning and improving my coding skills<br/>
